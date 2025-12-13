@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1765646723123,
+  "timestamp": 1765646745884,
   "index": "./index.html",
   "assetGroups": [
     {
@@ -141,7 +141,7 @@
     "./chunk-ZVXD7AF4.js": "e8eac6b8f51beba29e91357149088a522f779eba",
     "./icons/icon-192x192.png": "a4c550020c8215caae07afeef03c77b59e3212b3",
     "./icons/icon-512x512.png": "8133cc77ee8ce9b7c777f0de6addd43581eaf6c9",
-    "./index.html": "e8c2e22603ad1c8149560af7180666567c1bfd5b",
+    "./index.html": "b2e6023aabf04a5a9cf8ae70a77dd09e0a8361ee",
     "./main-5DR5P6MA.js": "256390bea37fbe6fc0716965bd25d611332a7e93",
     "./manifest.webmanifest": "28b16419641428b8004c128aa38e1eb44eb3b2b5",
     "./media/Amiko-Regular-VY3IM2XM.ttf": "2c0ff4c40eb6454c534801124ec502bd8417b232",
